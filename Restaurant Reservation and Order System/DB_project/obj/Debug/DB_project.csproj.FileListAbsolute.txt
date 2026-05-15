@@ -1,0 +1,28 @@
+C:\Users\Mubashir\source\repos\CC_course\PDC LAB TASKS\PDC TASKS\DB_project\DB_project\bin\Debug\DB_project.exe
+C:\Users\Mubashir\source\repos\CC_course\PDC LAB TASKS\PDC TASKS\DB_project\DB_project\bin\Debug\DB_project.exe.config
+C:\Users\Mubashir\source\repos\CC_course\PDC LAB TASKS\PDC TASKS\DB_project\DB_project\obj\Debug\DB_project.csproj.AssemblyReference.cache
+C:\Users\Mubashir\source\repos\CC_course\PDC LAB TASKS\PDC TASKS\DB_project\DB_project\obj\Debug\DB_project.DashboardForm.resources
+C:\Users\Mubashir\source\repos\CC_course\PDC LAB TASKS\PDC TASKS\DB_project\DB_project\obj\Debug\DB_project.Form1.resources
+C:\Users\Mubashir\source\repos\CC_course\PDC LAB TASKS\PDC TASKS\DB_project\DB_project\obj\Debug\DB_project.Form2.resources
+C:\Users\Mubashir\source\repos\CC_course\PDC LAB TASKS\PDC TASKS\DB_project\DB_project\obj\Debug\DB_project.OrderForm.resources
+C:\Users\Mubashir\source\repos\CC_course\PDC LAB TASKS\PDC TASKS\DB_project\DB_project\obj\Debug\DB_project.Properties.Resources.resources
+C:\Users\Mubashir\source\repos\CC_course\PDC LAB TASKS\PDC TASKS\DB_project\DB_project\obj\Debug\DB_project.ReservationsForm.resources
+C:\Users\Mubashir\source\repos\CC_course\PDC LAB TASKS\PDC TASKS\DB_project\DB_project\obj\Debug\DB_project.csproj.GenerateResource.cache
+C:\Users\Mubashir\source\repos\CC_course\PDC LAB TASKS\PDC TASKS\DB_project\DB_project\obj\Debug\DB_project.csproj.CoreCompileInputs.cache
+C:\Users\Mubashir\source\repos\CC_course\PDC LAB TASKS\PDC TASKS\DB_project\DB_project\obj\Debug\DB_project.exe
+C:\Users\Mubashir\source\repos\CC_course\PDC LAB TASKS\PDC TASKS\DB_project\DB_project\obj\Debug\DB_project.pdb
+C:\Users\USER\Downloads\DB_project_fixed\DB_project\obj\Debug\DB_project.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\DB_project_fixed\DB_project\obj\Debug\DB_project.exe.config
+C:\Users\USER\Downloads\DB_project_fixed\DB_project\obj\Debug\DB_project.DashboardForm.resources
+C:\Users\USER\Downloads\DB_project_fixed\DB_project\obj\Debug\DB_project.Form1.resources
+C:\Users\USER\Downloads\DB_project_fixed\DB_project\obj\Debug\DB_project.Form2.resources
+C:\Users\USER\Downloads\DB_project_fixed\DB_project\obj\Debug\DB_project.OrderForm.resources
+C:\Users\USER\Downloads\DB_project_fixed\DB_project\obj\Debug\DB_project.Properties.Resources.resources
+C:\Users\USER\Downloads\DB_project_fixed\DB_project\obj\Debug\DB_project.ReservationsForm.resources
+C:\Users\USER\Downloads\DB_project_fixed\DB_project\obj\Debug\DB_project.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\DB_project_fixed\DB_project\obj\Debug\DB_project.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\DB_project_fixed\DB_project\bin\Debug\DB_project.exe.config
+C:\Users\USER\Downloads\DB_project_fixed\DB_project\bin\Debug\DB_project.exe
+C:\Users\USER\Downloads\DB_project_fixed\DB_project\bin\Debug\DB_project.pdb
+C:\Users\USER\Downloads\DB_project_fixed\DB_project\obj\Debug\DB_project.exe
+C:\Users\USER\Downloads\DB_project_fixed\DB_project\obj\Debug\DB_project.pdb
